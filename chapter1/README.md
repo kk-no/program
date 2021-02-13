@@ -2,11 +2,11 @@
 Chapter 1 is about arrays and strings.
 
 ## Questions
-* Q1. Implement a function to determine that there are no duplicate characters in a string. 
-* Q2. Given two strings, implement a function to determine if one is a permutation of the other.
-* Q3. Implement a function to replace whitespace in the string with "%20".
-* Q4.
-* Q5.
+* Q1. 文字列が全て固有(重複文字がない)である事を判定する関数を作成せよ。
+* Q2. 2つの文字列を比較し、片方がもう一方の順列(文字を入れ替えてできる文字列)であるか判定する関数を作成せよ。
+* Q3. 文字列内に含まれる空文字を`%20`に置換する関数を作成せよ。
+* Q4. 文字列を並び替えて回文(前後どちらから読んでも同じ文字列)を作成できるか判定する関数を作成せよ。
+* Q5. 2つの文字列が与えられる。片方に1文字の挿入/削除/置換のいずれかを1回行った後に2つの文字列が一致するか判定する関数を作成せよ。
 * Q6.
 * Q7.
 * Q8.
